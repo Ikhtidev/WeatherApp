@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather_bukhara">Buxoro ob-havosi</string>
+    <string name="network_error">Internet bilan bog\'liq muammo, tarmoqni tekshiring!</string>
+    <string name="humidity">Namlik\u0020</string>
+    <string name="_persent">%</string>
+</resources>
